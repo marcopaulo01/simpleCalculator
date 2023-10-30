@@ -1,0 +1,11 @@
+D:\Centennial\Term 4\Comp 212 Programming 3\Workspace\Calculator\bin\Debug\Calculator.exe.config
+D:\Centennial\Term 4\Comp 212 Programming 3\Workspace\Calculator\bin\Debug\Calculator.exe
+D:\Centennial\Term 4\Comp 212 Programming 3\Workspace\Calculator\bin\Debug\Calculator.pdb
+D:\Centennial\Term 4\Comp 212 Programming 3\Workspace\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Centennial\Term 4\Comp 212 Programming 3\Workspace\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\Centennial\Term 4\Comp 212 Programming 3\Workspace\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Centennial\Term 4\Comp 212 Programming 3\Workspace\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Centennial\Term 4\Comp 212 Programming 3\Workspace\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Centennial\Term 4\Comp 212 Programming 3\Workspace\Calculator\obj\Debug\Calculator.exe
+D:\Centennial\Term 4\Comp 212 Programming 3\Workspace\Calculator\obj\Debug\Calculator.pdb
+D:\Centennial\Term 4\Comp 212 Programming 3\Workspace\Calculator\obj\Debug\Calculator.Form1.resources
